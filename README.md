@@ -13,30 +13,30 @@ Banks need a clear view of:
 - Borrower risk based on DTI and interest rate
 The objective is to build interactive dashboards that help stakeholders monitor loan health, minimize risk, and improve decision-making.
 ## 📁 Dataset
-Source: Bank loan dataset (CSV format)
-Data includes:
-Loan amount
-Issue date
-Interest rate
-Debt-to-Income (DTI)
-Loan status
-Loan purpose
-Term, state, employment length, home ownership
+#### Source: Bank loan dataset (CSV format)
+#### Data includes:
+- Loan amount
+- Issue date
+- Interest rate
+- Debt-to-Income (DTI)
+- Loan status
+- Loan purpose
+- Term, state, employment length, home ownership
 ## 🛠 Tools and Technologies
-MS SQL Server – Data storage, querying, and analysis, KPI calculation
-Power BI – Interactive dashboards & data visualization
-Excel – Initial data validation and cross-checking
+- MS SQL Server – Data storage, querying, and analysis, KPI calculation
+- Power BI – Interactive dashboards & data visualization
+- Excel – Initial data validation and cross-checking
 ## 🔍 Methods
-Imported raw data into MS SQL Server
-Created KPIs such as:
-Total Loan Applications
-Total Funded Amount
-Total Amount Received
-MTD & MoM metrics
-Average Interest Rate & DTI
-Categorized loans into Good Loans and Bad Loans
-Connected SQL Server to Power BI
-Designed interactive dashboards for analysis
+#### Imported raw data into MS SQL Server
+#### Created KPIs such as:
+- Total Loan Applications
+- Total Funded Amount
+- Total Amount Received
+- MTD & MoM metrics
+- Average Interest Rate & DTI
+#### Categorized loans into Good Loans and Bad Loans
+#### Connected SQL Server to Power BI
+#### Designed interactive dashboards for analysis
 ## 💡 Key Insights
 - Good loans contribute the majority of total funded and received amounts
 - Certain loan purposes show higher default risk
@@ -46,28 +46,38 @@ Designed interactive dashboards for analysis
 ## 📊 Dashboard
 Power BI Dashboards Created:
 
-1.Summary Dashboard
+1. Summary Dashboard
 - Key KPIs
 - Good vs Bad loan comparison
 - Loan status grid view
-2.Overview Dashboard
+2. Overview Dashboard
 - Monthly loan trends
 - State-wise regional analysis
 - Loan term and purpose distribution
 - Home ownership impact
-3.Details Dashboard
+3. Details Dashboard
 - Loan-level detailed view
 - Borrower profile and loan performance data
-  <img width="1163" height="660" alt="Bank Loan Summary" src="https://github.com/user-attachments/assets/c6359268-2445-46eb-a294-b9054dc3b3c1" />
-  <img width="1284" height="721" alt="Bank Loan Overview" src="https://github.com/user-attachments/assets/a51aecde-8488-4343-bc18-7ead3c49de37" />
-  <img width="1288" height="723" alt="Bank Loan Details" src="https://github.com/user-attachments/assets/b2e1f8da-53d3-4a06-8d3d-9536c5ff9180" />
-  ## ✅ Result and Conclusion
+  
+
+<img width="1163" height="660" alt="Bank Loan Summary" src="https://github.com/user-attachments/assets/c6359268-2445-46eb-a294-b9054dc3b3c1" />
+
+
+<img width="1284" height="721" alt="Bank Loan Overview" src="https://github.com/user-attachments/assets/a51aecde-8488-4343-bc18-7ead3c49de37" />
+
+
+<img width="1288" height="723" alt="Bank Loan Details" src="https://github.com/user-attachments/assets/b2e1f8da-53d3-4a06-8d3d-9536c5ff9180" />
+
+
+## ✅ Result and Conclusion
   The project successfully delivers a complete loan performance monitoring system.
+  
 It demonstrates strong skills in:
 - SQL-based data analysis
 - KPI creation
 - Business-focused Power BI dashboards
 - Translating raw data into meaningful insights
+  
 This solution can help banks reduce risk and improve lending efficiency.
 
 
